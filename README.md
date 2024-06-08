@@ -1,6 +1,10 @@
 # marquee
 a github svg that displays blinkies and pixels
 
+<div align= center>
+      sample:
+</div>
+<img src="sample.svg"></img>
 <hr>
 
 
@@ -49,7 +53,13 @@ sample:
 ```
 unfortunately the code is very long since its base64. github doesnt allow normal image links on svgs
 <br><br>
-4. repeat this process BUT make sure u change the x property so that it doesnt overlap with eachother!
+4. repeat this process BUT make sure u change the x property so that it doesnt overlap with eachother! btw if u want to make it so that the images refresh faster, change the following code snippet:
+```
+100% {
+        transform: translateX(-250%);
+      }
+```
+if you only plan on having three blinkies , i recommend changing it to -100%
 </details>
 <hr>
 <details>
@@ -64,6 +74,5 @@ This one's like really self explanatory.
 ```
 <hr> 
 </details>
-
 <h1> happy coding! <img src="https://files.catbox.moe/n1pa93.gif"> - serph </h4> 
 
