@@ -69,8 +69,10 @@ if you only plan on having three blinkies , i recommend changing it to -100%
   
 This one's like really self explanatory.
 
-``` 
-  <img src="images/svg/marquee.svg"></img> 
+```
+<a href="https://github.com/shinminase/marquee/">
+  <img src="images/svg/marquee.svg"></img>
+</a>
 ```
 <hr> 
 </details>
