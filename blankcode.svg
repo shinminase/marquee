@@ -1,0 +1,37 @@
+<svg viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .marquee {
+      animation: scroll 15s linear infinite;
+    }
+
+    @keyframes scroll {
+      0% {
+        transform: translateX(100%);
+      }
+      100% {
+        transform: translateX(-250%);
+      }
+    }
+  </style>
+
+  <defs>
+    <path id="marqueePath" d="M 0,50 H 1600" />
+  </defs>
+
+  <g class="marquee">
+    <!-- change width and height to dimensions of picture -->
+    <g transform="scale(1.5)">
+      <image xlink:href="base64 here" width="150" height="20" x="0" y="25" />
+    </g>
+    <g transform="scale(1.5)">
+      <image xlink:href="base64 here" width="150" height="20" x="160" y="25" />
+    </g>
+    <!-- under the x property, depending on the width of ur image, add an extra 10 to ur width. 150+10+=160.-->
+    <g transform="scale(1.5)">
+      <image xlink:href="base64 here" width="150" height="20" x="320" y="25" />
+    </g>
+    <!-- continue this with the previous x. 160+160=320. if u add another image, 320+160=480. repeat -->
+ <!-- add more images here if desired-->
+  </g>
+  
+</svg>
