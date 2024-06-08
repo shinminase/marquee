@@ -10,7 +10,7 @@ a github svg that displays blinkies and pixels
 
 <details>
 <summary> 
-<h3>setting up the repository</h3>
+<h2>setting up the repository</h2>
 </summary> 
 1. assuming you already have a readme setup on your profile, you may create a folder under your github readme. 
 <br> to make things all tidy i'll name it under user/images/svg<br><br>
@@ -27,7 +27,7 @@ a github svg that displays blinkies and pixels
 
 </details>
 <hr>
-<details><summary><h3>working out the svg</h3></summary> 
+<details><summary><h2>working out the svg</h2></summary> 
 1. if you go into the code, press the edit file button for marquee.svg
 <br> you should be greeted with something a little like this. here's a breakdown of all the things
 
@@ -64,7 +64,7 @@ if you only plan on having three blinkies , i recommend changing it to -100%
 <hr>
 <details>
 <summary> 
-<h3>putting it on your github readme</h3>
+<h2>putting it on your github readme</h2>
 </summary> 
   
 This one's like really self explanatory.
