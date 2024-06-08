@@ -67,13 +67,19 @@ if you only plan on having three blinkies , i recommend changing it to -100%
 <h2>putting it on your github readme</h2>
 </summary> 
   
-This one's like really self explanatory.
+This one's like really self explanatory. feel free to remove the a href tags, i only put it there so more people can access the tutorial
 
 ```
 <a href="https://github.com/shinminase/marquee/">
   <img src="images/svg/marquee.svg"></img>
 </a>
 ```
+
+if u use markdown
+```
+![marquee](images/svg/marquee.svg)
+```
+
 <hr> 
 </details>
 <h1> happy coding! <img src="https://files.catbox.moe/n1pa93.gif"> - serph </h4> 
