@@ -69,6 +69,8 @@ unfortunately the code is very long since its base64. github doesnt allow normal
       }
 ```
 if you only plan on having three blinkies , i recommend changing it to -100%
+
+or, if you dont want to do the code yourself (i understand its exhausting) go on over to my <a href="https://shinminase.github.io/marqueegenerator/">website</a> and use the drag n drop feature! u can manually edit the speed on your own.
 </details>
 <hr>
 <details>
@@ -86,7 +88,7 @@ This one's like really self explanatory. feel free to remove the a href tags, i 
 
 if u use markdown
 ```
-![marquee](images/svg/marquee.svg)
+[![marquee](images/svg/marquee.svg)](https://github.com/shinminase/marquee)
 ```
 
 <hr> 
