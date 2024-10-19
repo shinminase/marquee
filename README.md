@@ -7,6 +7,15 @@ a github svg that displays blinkies and pixels
 <img src="sample.svg"></img>
 <hr>
 
+## NEW EXCITING UPDATE!
+
+i made it automated so that u dont have to do the code urself. u still gotta follow these other steps doe
+<h3><a href="https://shinminase.github.io/marqueegenerator/">CHECK IT OUT HERE!</a></h3> and please...
+<h3> LEAVE ME A STAR ON THIS REPOSITORY IF YOU'RE USING THIS ... PRETTY PLEASE?</h3>
+
+![image](https://github.com/user-attachments/assets/5c34d5db-178e-4dd3-8862-1c07018eeba3)
+
+
 
 <details>
 <summary> 
