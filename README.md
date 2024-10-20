@@ -7,7 +7,7 @@ a github svg that displays blinkies and pixels
 <img src="sample.svg"></img>
 <hr>
 
-## NEW EXCITING UPDATE!
+##  NEW UPDATE!
 
 i made it automated so that u dont have to do the code urself. u still gotta follow these other steps doe
 <h3><a href="https://shinminase.github.io/marqueegenerator/">CHECK IT OUT HERE!</a></h3> and please...
@@ -15,8 +15,39 @@ i made it automated so that u dont have to do the code urself. u still gotta fol
 
 ![image](https://github.com/user-attachments/assets/5c34d5db-178e-4dd3-8862-1c07018eeba3)
 
+<br><br>
 
 
+<div align="center">
+      
+### heres a vid of me using it
+
+
+<br><br>
+
+https://github.com/user-attachments/assets/c32e4a29-bf29-4cab-aa27-2343ad87c453
+
+
+<br>
+
+ Idk im too lazy to explain but heyyy just fiddle round with it and ur good.
+
+copy the code from the svg generator, make a new repository, and insert it using image tags!
+if you follow my video, <br> you use it in markdown like `[![mymarquee.svg]](https://github.com/shinminase/marquee)` <br><br> or in html `<a href="https://github.com/shinminase/marquee"><img src="mymarquee.svg">`
+</div>
+
+
+
+
+
+
+<hr>
+
+
+<br>
+
+
+<details><summary><h1>OUTDATED</h1></summary>
 <details>
 <summary> 
 <h2>setting up the repository</h2>
@@ -94,4 +125,4 @@ if u use markdown
 <hr> 
 </details>
 <h1> happy coding! <img src="https://files.catbox.moe/n1pa93.gif"> - serph </h4> 
-
+</details>
