@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/c32e4a29-bf29-4cab-aa27-2343ad87c453
  Idk im too lazy to explain but heyyy just fiddle round with it and ur good.
 
 copy the code from the svg generator, make a new repository, and insert it using image tags!
-if you follow my video, <br> you use it in markdown like `[![mymarquee.svg](mymarquee)](https://github.com/shinminase/marquee)` <br><br> or in html `<a href="https://github.com/shinminase/marquee"><img src="mymarquee.svg">`
+if you follow my video, <br> you use it in markdown like `[![blinkie marquee](mymarquee.svg)](https://github.com/shinminase/marquee)` <br><br> or in html `<a href="https://github.com/shinminase/marquee"><img src="mymarquee.svg">`
 </div>
 
 
